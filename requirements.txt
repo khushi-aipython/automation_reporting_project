@@ -1,0 +1,9 @@
+requirements for this project :
+
+fpdf
+csv file for data
+
+create a csv file in the same folder
+and import it into the python code 
+then import FPDF from fpd
+
